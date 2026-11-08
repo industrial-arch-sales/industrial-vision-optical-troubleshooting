@@ -85,7 +85,3 @@ A substituição de procedimentos empíricos pelo polimento químico-mecânico i
 1. **Restauração Óptica Instantânea:** Recupera a transmitância a níveis $>98\%$ sem paradas prolongadas de linha.
 2. **Eliminação do Risco Contratual:** Força o retorno do CLP à malha fechada, garantindo a uniformidade de micragem em áreas de alta curvatura e blindando a planta contra auditorias externas rigorosas.
 3. **Proteção Patrimonial:** Preserva os ativos existentes e elimina desperdícios de CAPEX.
-
-```
-
-```
